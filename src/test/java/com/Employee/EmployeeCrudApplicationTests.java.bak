@@ -10,6 +10,4 @@ class EmployeeCrudApplicationTests {
 	void contextLoads() {
 	}
 //hi
-
-public void add(){}
 }
